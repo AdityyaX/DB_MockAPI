@@ -1,17 +1,22 @@
-[
+{
+  "todos": [
     {
-        "id": "122",
-        "title": "Task1",
-        "description": "description"
+      "id": 1,
+      "title": "Learn JavaScript",
+      "description": "Study JavaScript basics",
+      "priority": "High"
     },
     {
-        "id": "124",
-        "title": "Task2",
-        "description": "description"
+      "id": 2,
+      "title": "Build a Todo App",
+      "description": "Create a simple todo application",
+      "priority": "Medium"
     },
     {
-        "id": "132",
-        "title": "Task3",
-        "description": "description"
+      "id": 3,
+      "title": "Exercise",
+      "description": "Go for a run or do some yoga",
+      "priority": "Low"
     }
-]
+  ]
+}
